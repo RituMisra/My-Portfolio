@@ -234,7 +234,7 @@ function Hero() {
           opacity: mounted ? 1 : 0, transform: mounted ? "none" : "translateY(16px)",
           transition: "opacity 0.6s ease 0.1s, transform 0.6s ease 0.1s",
         }}>
-          ✦ Available for Software Developer  &amp; full-time roles
+       
         </p>
         <h1 style={{ margin: "0 0 8px", lineHeight: 1.05, fontFamily: "'Playfair Display', serif" }}>
           <div style={{ fontSize: "clamp(52px, 7vw, 96px)", fontWeight: 700, color: "#fff", overflow: "hidden" }}>
